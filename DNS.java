@@ -27,7 +27,7 @@ public class DNS {
     public static void initRegister(){
         Bruger mia = new Bruger("mia","10.10.138.188");
         Bruger seb = new Bruger("seb", "10.10.136.255");
-        Bruger kris = new Bruger("kris", "10.10.132.84");
+        Bruger kris = new Bruger("kris", "10.10.140.199");
 
         brugere.add(mia);
         brugere.add(seb);
