@@ -53,7 +53,6 @@ public class DNS {
                     sendData.length, IPAddress, port);
             dnsServerSocket.send(sendPacket);
         }
-
     }
 
 
